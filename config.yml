@@ -1,0 +1,8 @@
+Settings:
+  DBPath: 'database.db'
+
+CustomItems:
+  Weapons:
+    - TridentOfPoseidon:          # Summon Lighting are very random rates
+        PlayerCooldown: 100       # in Milliseconds
+        Price:          1000000   # in vault Currency (managed by your economy plugin for you server)
