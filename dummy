@@ -1,0 +1,13 @@
+{
+  "name": "John Doe",
+  "age": 29,
+  "email": "me@ciderboi.xyz",
+  "password": "password",
+  "address": {
+    "street": "1234 Main St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "phone": "217-555-5555"
+}
